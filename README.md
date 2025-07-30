@@ -84,3 +84,8 @@ SELECT YEAR(Date) AS Year, AVG(Price) AS AvgPrice
 FROM Ticket
 JOIN Booking ON Ticket.BookingID = Booking.BookingID
 GROUP BY Year;
+
+
+🧑‍💻 Author
+G. Pragnya Reddy
+🎓 3rd Year B.Tech – Computer Science & Engineering (Data Science)
