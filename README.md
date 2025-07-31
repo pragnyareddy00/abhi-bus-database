@@ -88,4 +88,6 @@ GROUP BY Year;
 
 🧑‍💻 Author
 G. Pragnya Reddy
-🎓 3rd Year B.Tech – Computer Science & Engineering (Data Science)
+🎓 2nd Year B.Tech – Computer Science & Engineering (Data Science)
+N. Abhinav
+🎓 2nd Year B.Tech – Computer Science & Engineering (Data Science)
